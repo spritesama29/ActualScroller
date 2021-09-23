@@ -4,6 +4,7 @@ from xmlrpc.client import boolean
 #Background is from Cethiel https://opengameart.org/content/desert-background-0
 #Bullet is from https://opengameart.org/content/bullets-game-asset
 #Sound is from https://opengameart.org/content/collaboration-sound-effects-shooting-sounds-002
+#Kyle Stearns
 import arcade
 import pathlib
 from enum import auto, Enum
